@@ -1,0 +1,14 @@
+C:\Users\AdminAp-066\Documents\fibonacci2\bin\Debug\net7.0\fibonacci2.exe
+C:\Users\AdminAp-066\Documents\fibonacci2\bin\Debug\net7.0\fibonacci2.deps.json
+C:\Users\AdminAp-066\Documents\fibonacci2\bin\Debug\net7.0\fibonacci2.runtimeconfig.json
+C:\Users\AdminAp-066\Documents\fibonacci2\bin\Debug\net7.0\fibonacci2.dll
+C:\Users\AdminAp-066\Documents\fibonacci2\bin\Debug\net7.0\fibonacci2.pdb
+C:\Users\AdminAp-066\Documents\fibonacci2\obj\Debug\net7.0\fibonacci2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AdminAp-066\Documents\fibonacci2\obj\Debug\net7.0\fibonacci2.AssemblyInfoInputs.cache
+C:\Users\AdminAp-066\Documents\fibonacci2\obj\Debug\net7.0\fibonacci2.AssemblyInfo.cs
+C:\Users\AdminAp-066\Documents\fibonacci2\obj\Debug\net7.0\fibonacci2.csproj.CoreCompileInputs.cache
+C:\Users\AdminAp-066\Documents\fibonacci2\obj\Debug\net7.0\fibonacci2.dll
+C:\Users\AdminAp-066\Documents\fibonacci2\obj\Debug\net7.0\refint\fibonacci2.dll
+C:\Users\AdminAp-066\Documents\fibonacci2\obj\Debug\net7.0\fibonacci2.pdb
+C:\Users\AdminAp-066\Documents\fibonacci2\obj\Debug\net7.0\fibonacci2.genruntimeconfig.cache
+C:\Users\AdminAp-066\Documents\fibonacci2\obj\Debug\net7.0\ref\fibonacci2.dll
